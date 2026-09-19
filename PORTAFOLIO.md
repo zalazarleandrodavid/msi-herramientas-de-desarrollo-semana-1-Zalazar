@@ -1,2 +1,3 @@
 "Leandro David Zalazar"
- ## Sobre Mí
+ ## Sobre Mí    
+## Habilidades Técnicas 
